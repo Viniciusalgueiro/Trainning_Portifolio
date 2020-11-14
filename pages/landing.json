@@ -1,0 +1,11 @@
+{
+  "image_profile":"https://avatars1.githubusercontent.com/u/68074908?s=400&u=66c47b4d9aefd603a79b88bc70af8c148e3f1d90&v=4",
+  "greeting": "Hello! welcome to my portfolio site!",
+  "introduction": "I am a web developer from Brazil",
+  "languages":[
+    {"name":"Javascript","years":1},
+    {"name":"C#","years":3},
+    {"name":"Python","years":3},
+    {"name":"java","years":4}
+  ]
+}
